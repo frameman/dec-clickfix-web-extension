@@ -5,7 +5,7 @@
 2. Open `chrome://extensions` in Chrome or Edge.
 3. Enable **Developer mode**.
 4. Select **Load unpacked**.
-5. Choose the extracted `clickfix_guard_extension` folder.
+5. Choose the extracted `clickfix_extension` folder.
 
 ## What it detects
 - Fake CAPTCHA / human-verification wording and common overlay selectors.
